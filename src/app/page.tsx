@@ -78,7 +78,7 @@ export default function Home() {
             src="/cover-photo.png"
             alt="Life coaching background"
             fill
-            className="object-cover"
+            className="object-cover object-[30%_center] md:object-center"
             priority
           />
           {/* Dark overlay with gradient */}
