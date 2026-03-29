@@ -334,7 +334,7 @@ export default function AboutPage() {
               href="/contact"
               className="inline-block px-12 py-4 bg-gold text-white uppercase tracking-wider text-sm rounded-full hover:bg-gold-dark hover:shadow-2xl hover:shadow-gold/30 transition-all duration-500 hover:-translate-y-1"
             >
-              Book a Free Call
+              Book a Free Consultation
             </Link>
           </AnimateOnScroll>
         </div>

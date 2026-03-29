@@ -111,7 +111,7 @@ export default function Home() {
               href="/contact"
               className="px-10 py-4 bg-gold text-white uppercase tracking-wider text-sm rounded-full hover:bg-gold-dark hover:shadow-2xl hover:shadow-gold/30 transition-all duration-500 hover:-translate-y-1"
             >
-              Book Your Free Discovery Call
+              Book Your Free Consultation
             </Link>
             <Link
               href="/about"
@@ -272,10 +272,10 @@ export default function Home() {
 
           <AnimateOnScroll className="mt-12 text-center">
             <Link
-              href="/testimonials"
+              href="/contact"
               className="inline-flex items-center gap-2 text-gold hover:text-gold-dark uppercase tracking-wider text-sm transition-colors duration-300 group"
             >
-              Read More Stories
+              Get Started Today
               <svg
                 className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300"
                 fill="none"
@@ -397,7 +397,7 @@ export default function Home() {
               href="/contact"
               className="inline-block px-12 py-4 bg-gold text-white uppercase tracking-wider text-sm rounded-full hover:bg-gold-dark hover:shadow-2xl hover:shadow-gold/30 transition-all duration-500 hover:-translate-y-1"
             >
-              Book Your Free Call
+              Book Your Free Consultation
             </Link>
           </AnimateOnScroll>
         </div>
